@@ -14,7 +14,7 @@ public class Rough {
 		System.out.print("the new array values are :{");
 
 		for(int i=0;i<b.length;i++) {
-		System.out.print(","+b[i]);
+		System.out.print(","+b[i]);ss
 	}
 
 }
